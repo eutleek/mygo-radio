@@ -1,0 +1,21 @@
+{
+  "id": "radio",
+  "name": "Network Radio",
+  "version": "1.2.0",
+  "description": "161 live internet radio streams, from SomaFM to public broadcasters: pick a station and it plays until you stop it. 161 个在线电台，点一个就一直播下去。",
+  "main": "index.js",
+  "playback": "stream",
+  "minAppVersion": "0.1.8",
+  "permissions": {},
+  "navigation": [
+    { "builtin": "home", "title": "Network Radio" },
+    { "builtin": "stations", "title": "All stations" },
+    { "page": "lofi", "title": "Lo-Fi & Ambient", "icon": "radio" },
+    { "page": "classical", "title": "Classical", "icon": "radio" },
+    { "page": "jazz", "title": "Jazz & Soul", "icon": "radio" },
+    { "page": "electronic", "title": "Electronic & Dance", "icon": "radio" },
+    { "page": "rock", "title": "Rock, Indie & Pop", "icon": "radio" },
+    { "page": "public", "title": "Public Radio", "icon": "radio" },
+    { "page": "world", "title": "Folk & World", "icon": "radio" }
+  ]
+}
