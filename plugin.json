@@ -1,7 +1,7 @@
 {
-  "id": "radio",
+  "id": "network-radio",
   "name": "Network Radio",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "161 live internet radio streams, from SomaFM to public broadcasters: pick a station and it plays until you stop it. 161 个在线电台，点一个就一直播下去。",
   "main": "index.js",
   "playback": "stream",
